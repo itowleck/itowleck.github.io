@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itowleck.github.io/sitemap
+Sitemap: https://itowleck.github.io/app/sitemap
+Sitemap: https://itowleck.github.io/assets/sitemap
+Sitemap: https://itowleck.github.io/css/sitemap
+Sitemap: https://itowleck.github.io/includes/sitemap
+Sitemap: https://itowleck.github.io/item/sitemap
+Sitemap: https://itowleck.github.io/src/sitemap
